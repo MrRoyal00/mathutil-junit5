@@ -19,7 +19,7 @@ public class MathUtilTest {
     //Choi DDT
     public static Object[][] initData(){
         return new Integer[][]{
-            {1, 1},{2, 2},{3, 6},{5, 120},{6, 20}  
+            {1, 1},{2, 2},{3, 6},{5, 120},{6, 720}  
         };
     }
     
